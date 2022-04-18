@@ -26,3 +26,11 @@
             <li>Inn N Out</li>
             <li>Homecooked Chicken Pot Pie</li>
         </ul>
+
+
+   <h4>My Top Skills So Far are:</h4>
+        <ol>
+            <li>Kung Fu</li>
+            <li>Push-up king</li>
+            <li>pull-ups</li> 
+        </ol>
